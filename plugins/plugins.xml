@@ -1,5 +1,5 @@
 <plugins>
   <plugin id="genesis.apj.plugin" 
-        url="https://zazart.github.io/genesis-apj/plugins/genesis-apj.zip" 
-        version="25.12.08.1"/>
+        url="https://zazart.github.io/genesis-apj/plugins/genesis-intellij-25.12.08.2.zip" 
+        version="25.12.08.2"/>
 </plugins>
